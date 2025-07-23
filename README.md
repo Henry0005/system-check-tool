@@ -2,7 +2,7 @@
 
 **system-check-tool** is a lightweight and cross-platform Python script designed to collect essential system and hardware information on both Windows and Linux. It automatically detects the operating system and executes the appropriate commands to provide a structured and readable output using UTF-8 encoding.
 
-## 🚀 Features
+## Features
 
 - ✅ Compatible with **Windows** and **Linux**
 - ✅ Automatic OS detection
@@ -15,7 +15,7 @@
 - ✅ Fully based on Python standard library (no dependencies)
 - ✅ UTF-8 safe output, even with special characters
 
-## 🎯 Objective
+## Objective
 
 The goal of this tool is to provide a quick and portable way to inspect system and hardware details, useful for:
 
